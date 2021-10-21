@@ -19,7 +19,7 @@ namespace HeyGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("What's up Doc");
+            MessageBox.Show("HHola");
         }
     }
 }
